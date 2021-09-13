@@ -1,0 +1,5 @@
+ il lance deux processus s’échangeant des données à l’aide de tubes anonymes
+• la communication entre les deux processus doit être bidirectionnelle
+• le processus P1 doit lire le contenu d’un fichier ff.txt et le communiquer au
+processus P2
+• le processus P2 d

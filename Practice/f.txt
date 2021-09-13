@@ -1,0 +1,10 @@
+total 206
+-rw-r--r-- 1 mullah sig 767 Oct 16 11:08 33_minishell.py
+-rw-r--r-- 1 mullah sig   0 Nov  7 21:12 f.txt
+-rw-r--r-- 1 mullah sig 120 Oct 16 11:13 hello.txt
+-rw-r--r-- 1 mullah sig  85 Oct 16 11:51 iut
+-rw-r--r-- 1 mullah sig  85 Oct 16 11:51 iut~
+-rw-r--r-- 1 mullah sig 374 Oct 16 11:25 tp41_read_write.py
+-rw-r--r-- 1 mullah sig 417 Oct 16 11:33 tp42_read_write.py
+-rw-r--r-- 1 mullah sig 844 Oct 16 11:50 tp43_trim.py
+-rw-r--r-- 1 mullah sig 220 Nov  7 21:12 tp51_dup_exec.py

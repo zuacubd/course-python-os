@@ -1,0 +1,5 @@
+Hello! IUT Blagnac
+How are you doing today?
+Today, we will see some expercises on operating systems.
+
+So, let's start!!
